@@ -26,7 +26,8 @@ Para instalar PostgreSQL tienes las siguientes opciones:
 > https://www.postgresql.org/files/documentation/pdf/14/postgresql-14-A4.pdf
 
 
-Una vez tengas instalados los paquetes procederemos a crear un entorno amigable el cual incluya un boton de login, puedes usar hojas de estilos CSS,SASS, LESS, ETC.)
+Una vez tengas instalados los paquetes procederemos a crear un entorno amigable el cual incluya un boton de login, puedes usar hojas de estilos CSS,SASS, LESS, etc...
+
 ## Requerimientos CPU
 Se recomienda tener un coomputador con las siguientes características:
 

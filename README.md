@@ -7,7 +7,7 @@
 Aqui sube un pequeño login y datos de contacto.
 
 - Frontend: React
-- Backend: Djando
+- Backend: Django
 - Database: PostgreSQL
 # Características
 

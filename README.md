@@ -27,6 +27,9 @@ Para instalar PostgreSQL tienes las siguientes opciones:
 
 
 Una vez tengas instalados los paquetes procederemos a crear un entorno amigable el cual incluya un boton de login, puedes usar hojas de estilos CSS,SASS, LESS, etc...
+El login debe redireccionar a una vista que muestre la cantidad de usuarios almacenados en la BD.
+
+Envianos un correo a: info@valenciatravelcusco.com una vez hayas subido tu test al repositorio en una rama de nombre "nombresyapellidos"-
 
 ## Requerimientos CPU
 Se recomienda tener un computador con las siguientes características:

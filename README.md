@@ -17,11 +17,12 @@ Para instalar React sigue la siguiente documentacion:
 Para instalar Python sigue la siguiente documentacion:
 > https://www.python.org/downloads/
 
-Para instalar Django tienes las siguientes documentaciones:
+Para instalar Django sigue la siguiente documentacion:
 > https://docs.djangoproject.com/en/4.1/topics/install/
 
-Para instalar PostgreSQL:
+Para instalar PostgreSQL tienes las siguientes opciones:
 > https://www.postgresql.org/download/
+
 > https://www.postgresql.org/files/documentation/pdf/14/postgresql-14-A4.pdf
 
 

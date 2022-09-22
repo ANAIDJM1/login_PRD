@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Test- Técnico
 ## Valencia Travel Cusco
 
@@ -54,3 +55,7 @@ Desarrollado por  [©Anaid Jimenez Moreano](https://www.linkedin.com/in/anaidjm1
 2022
 
 
+=======
+# login_PRD
+login con Python, React y Django (PostgreSQL database)
+>>>>>>> 0559809b8ed4305cdf5c69b7603c89ded4431b78
